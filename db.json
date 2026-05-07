@@ -1,0 +1,804 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "type": "income",
+      "category": "투자",
+      "description": "코인 수익",
+      "amount": 3030000,
+      "date": "2025-01-01"
+    },
+    {
+      "id": 2,
+      "type": "expense",
+      "category": "주거",
+      "description": "수도요금",
+      "amount": 195000,
+      "date": "2025-01-02"
+    },
+    {
+      "id": 3,
+      "type": "expense",
+      "category": "의료",
+      "description": "치과",
+      "amount": 196000,
+      "date": "2025-01-03"
+    },
+    {
+      "id": 4,
+      "type": "expense",
+      "category": "주거",
+      "description": "월세",
+      "amount": 4000,
+      "date": "2025-01-06"
+    },
+    {
+      "id": 5,
+      "type": "expense",
+      "category": "의료",
+      "description": "병원 진료",
+      "amount": 153000,
+      "date": "2025-01-14"
+    },
+    {
+      "id": 6,
+      "type": "expense",
+      "category": "식비",
+      "description": "파스타집",
+      "amount": 270000,
+      "date": "2025-01-17"
+    },
+    {
+      "id": 7,
+      "type": "expense",
+      "category": "의료",
+      "description": "약국",
+      "amount": 131000,
+      "date": "2025-01-28"
+    },
+    {
+      "id": 8,
+      "type": "expense",
+      "category": "식비",
+      "description": "카페 모임",
+      "amount": 113000,
+      "date": "2025-01-28"
+    },
+    {
+      "id": 9,
+      "type": "expense",
+      "category": "주거",
+      "description": "수도요금",
+      "amount": 124000,
+      "date": "2025-01-28"
+    },
+    {
+      "id": 10,
+      "type": "expense",
+      "category": "식비",
+      "description": "배달의민족",
+      "amount": 34000,
+      "date": "2025-02-05"
+    },
+    {
+      "id": 11,
+      "type": "expense",
+      "category": "쇼핑",
+      "description": "11번가",
+      "amount": 262000,
+      "date": "2025-02-10"
+    },
+    {
+      "id": 12,
+      "type": "expense",
+      "category": "교통",
+      "description": "택시",
+      "amount": 264000,
+      "date": "2025-02-11"
+    },
+    {
+      "id": 13,
+      "type": "expense",
+      "category": "의료",
+      "description": "건강검진",
+      "amount": 45000,
+      "date": "2025-02-13"
+    },
+    {
+      "id": 14,
+      "type": "expense",
+      "category": "식비",
+      "description": "회식",
+      "amount": 226000,
+      "date": "2025-02-13"
+    },
+    {
+      "id": 15,
+      "type": "income",
+      "category": "기타",
+      "description": "수수료",
+      "amount": 2740000,
+      "date": "2025-02-17"
+    },
+    {
+      "id": 16,
+      "type": "expense",
+      "category": "문화",
+      "description": "도서 구매",
+      "amount": 104000,
+      "date": "2025-02-19"
+    },
+    {
+      "id": 17,
+      "type": "expense",
+      "category": "교통",
+      "description": "버스 카드",
+      "amount": 85000,
+      "date": "2025-02-21"
+    },
+    {
+      "id": 18,
+      "type": "expense",
+      "category": "문화",
+      "description": "영화관",
+      "amount": 185000,
+      "date": "2025-02-25"
+    },
+    {
+      "id": 19,
+      "type": "expense",
+      "category": "의료",
+      "description": "약국",
+      "amount": 200000,
+      "date": "2025-03-10"
+    },
+    {
+      "id": 20,
+      "type": "income",
+      "category": "용돈",
+      "description": "친구 송금",
+      "amount": 3340000,
+      "date": "2025-03-11"
+    },
+    {
+      "id": 21,
+      "type": "income",
+      "category": "투자",
+      "description": "펀드 수익",
+      "amount": 2160000,
+      "date": "2025-03-23"
+    },
+    {
+      "id": 22,
+      "type": "expense",
+      "category": "의료",
+      "description": "건강검진",
+      "amount": 27000,
+      "date": "2025-03-24"
+    },
+    {
+      "id": 23,
+      "type": "expense",
+      "category": "의료",
+      "description": "약국",
+      "amount": 273000,
+      "date": "2025-04-02"
+    },
+    {
+      "id": 24,
+      "type": "expense",
+      "category": "의료",
+      "description": "치과",
+      "amount": 186000,
+      "date": "2025-04-02"
+    },
+    {
+      "id": 25,
+      "type": "income",
+      "category": "급여",
+      "description": "월급",
+      "amount": 3350000,
+      "date": "2025-04-05"
+    },
+    {
+      "id": 26,
+      "type": "expense",
+      "category": "식비",
+      "description": "이마트 장보기",
+      "amount": 286000,
+      "date": "2025-04-07"
+    },
+    {
+      "id": 27,
+      "type": "expense",
+      "category": "기타",
+      "description": "기부",
+      "amount": 222000,
+      "date": "2025-04-08"
+    },
+    {
+      "id": 28,
+      "type": "expense",
+      "category": "문화",
+      "description": "콘서트",
+      "amount": 97000,
+      "date": "2025-04-10"
+    },
+    {
+      "id": 29,
+      "type": "expense",
+      "category": "의료",
+      "description": "건강검진",
+      "amount": 280000,
+      "date": "2025-04-11"
+    },
+    {
+      "id": 30,
+      "type": "expense",
+      "category": "교통",
+      "description": "지하철 충전",
+      "amount": 214000,
+      "date": "2025-04-13"
+    },
+    {
+      "id": 31,
+      "type": "expense",
+      "category": "식비",
+      "description": "스타벅스",
+      "amount": 261000,
+      "date": "2025-04-14"
+    },
+    {
+      "id": 32,
+      "type": "expense",
+      "category": "식비",
+      "description": "배달의민족",
+      "amount": 95000,
+      "date": "2025-04-18"
+    },
+    {
+      "id": 33,
+      "type": "expense",
+      "category": "기타",
+      "description": "선물",
+      "amount": 248000,
+      "date": "2025-04-19"
+    },
+    {
+      "id": 34,
+      "type": "income",
+      "category": "기타",
+      "description": "선물",
+      "amount": 4810000,
+      "date": "2025-04-21"
+    },
+    {
+      "id": 35,
+      "type": "expense",
+      "category": "의료",
+      "description": "건강검진",
+      "amount": 293000,
+      "date": "2025-04-23"
+    },
+    {
+      "id": 36,
+      "type": "expense",
+      "category": "의료",
+      "description": "병원 진료",
+      "amount": 185000,
+      "date": "2025-04-25"
+    },
+    {
+      "id": 37,
+      "type": "expense",
+      "category": "기타",
+      "description": "경조사비",
+      "amount": 85000,
+      "date": "2025-05-03"
+    },
+    {
+      "id": 38,
+      "type": "expense",
+      "category": "교통",
+      "description": "KTX 예매",
+      "amount": 251000,
+      "date": "2025-05-09"
+    },
+    {
+      "id": 39,
+      "type": "expense",
+      "category": "교통",
+      "description": "지하철 충전",
+      "amount": 38000,
+      "date": "2025-05-10"
+    },
+    {
+      "id": 40,
+      "type": "expense",
+      "category": "의료",
+      "description": "약국",
+      "amount": 255000,
+      "date": "2025-05-12"
+    },
+    {
+      "id": 41,
+      "type": "expense",
+      "category": "쇼핑",
+      "description": "무신사",
+      "amount": 207000,
+      "date": "2025-05-13"
+    },
+    {
+      "id": 42,
+      "type": "expense",
+      "category": "교통",
+      "description": "KTX 예매",
+      "amount": 298000,
+      "date": "2025-05-17"
+    },
+    {
+      "id": 43,
+      "type": "income",
+      "category": "급여",
+      "description": "보너스",
+      "amount": 2120000,
+      "date": "2025-05-21"
+    },
+    {
+      "id": 44,
+      "type": "expense",
+      "category": "쇼핑",
+      "description": "신발",
+      "amount": 279000,
+      "date": "2025-05-28"
+    },
+    {
+      "id": 45,
+      "type": "expense",
+      "category": "주거",
+      "description": "인터넷",
+      "amount": 51000,
+      "date": "2025-06-02"
+    },
+    {
+      "id": 46,
+      "type": "expense",
+      "category": "주거",
+      "description": "인터넷",
+      "amount": 167000,
+      "date": "2025-06-05"
+    },
+    {
+      "id": 47,
+      "type": "expense",
+      "category": "문화",
+      "description": "도서 구매",
+      "amount": 239000,
+      "date": "2025-06-08"
+    },
+    {
+      "id": 48,
+      "type": "expense",
+      "category": "의료",
+      "description": "건강검진",
+      "amount": 147000,
+      "date": "2025-06-13"
+    },
+    {
+      "id": 49,
+      "type": "expense",
+      "category": "기타",
+      "description": "수수료",
+      "amount": 14000,
+      "date": "2025-06-25"
+    },
+    {
+      "id": 50,
+      "type": "income",
+      "category": "급여",
+      "description": "월급",
+      "amount": 4840000,
+      "date": "2025-06-26"
+    },
+    {
+      "id": 51,
+      "type": "income",
+      "category": "투자",
+      "description": "이자",
+      "amount": 3380000,
+      "date": "2025-06-27"
+    },
+    {
+      "id": 52,
+      "type": "expense",
+      "category": "식비",
+      "description": "카페 모임",
+      "amount": 153000,
+      "date": "2025-07-02"
+    },
+    {
+      "id": 53,
+      "type": "expense",
+      "category": "주거",
+      "description": "월세",
+      "amount": 46000,
+      "date": "2025-07-13"
+    },
+    {
+      "id": 54,
+      "type": "expense",
+      "category": "주거",
+      "description": "수도요금",
+      "amount": 11000,
+      "date": "2025-07-19"
+    },
+    {
+      "id": 55,
+      "type": "expense",
+      "category": "식비",
+      "description": "파스타집",
+      "amount": 189000,
+      "date": "2025-07-20"
+    },
+    {
+      "id": 56,
+      "type": "expense",
+      "category": "주거",
+      "description": "월세",
+      "amount": 119000,
+      "date": "2025-07-23"
+    },
+    {
+      "id": 57,
+      "type": "expense",
+      "category": "쇼핑",
+      "description": "다이소",
+      "amount": 273000,
+      "date": "2025-07-25"
+    },
+    {
+      "id": 58,
+      "type": "expense",
+      "category": "의료",
+      "description": "치과",
+      "amount": 188000,
+      "date": "2025-08-02"
+    },
+    {
+      "id": 59,
+      "type": "expense",
+      "category": "식비",
+      "description": "점심 도시락",
+      "amount": 141000,
+      "date": "2025-08-03"
+    },
+    {
+      "id": 60,
+      "type": "expense",
+      "category": "의료",
+      "description": "건강검진",
+      "amount": 139000,
+      "date": "2025-08-04"
+    },
+    {
+      "id": 61,
+      "type": "expense",
+      "category": "쇼핑",
+      "description": "화장품",
+      "amount": 284000,
+      "date": "2025-08-05"
+    },
+    {
+      "id": 62,
+      "type": "income",
+      "category": "기타",
+      "description": "경조사비",
+      "amount": 2030000,
+      "date": "2025-08-05"
+    },
+    {
+      "id": 63,
+      "type": "income",
+      "category": "급여",
+      "description": "월급",
+      "amount": 2440000,
+      "date": "2025-08-09"
+    },
+    {
+      "id": 64,
+      "type": "expense",
+      "category": "기타",
+      "description": "기부",
+      "amount": 108000,
+      "date": "2025-08-17"
+    },
+    {
+      "id": 65,
+      "type": "expense",
+      "category": "의료",
+      "description": "약국",
+      "amount": 68000,
+      "date": "2025-08-19"
+    },
+    {
+      "id": 66,
+      "type": "expense",
+      "category": "주거",
+      "description": "인터넷",
+      "amount": 282000,
+      "date": "2025-08-21"
+    },
+    {
+      "id": 67,
+      "type": "income",
+      "category": "급여",
+      "description": "보너스",
+      "amount": 4650000,
+      "date": "2025-08-22"
+    },
+    {
+      "id": 68,
+      "type": "expense",
+      "category": "기타",
+      "description": "경조사비",
+      "amount": 134000,
+      "date": "2025-08-25"
+    },
+    {
+      "id": 69,
+      "type": "expense",
+      "category": "쇼핑",
+      "description": "11번가",
+      "amount": 154000,
+      "date": "2025-09-01"
+    },
+    {
+      "id": 70,
+      "type": "income",
+      "category": "투자",
+      "description": "이자",
+      "amount": 4680000,
+      "date": "2025-09-02"
+    },
+    {
+      "id": 71,
+      "type": "expense",
+      "category": "기타",
+      "description": "선물",
+      "amount": 121000,
+      "date": "2025-09-03"
+    },
+    {
+      "id": 72,
+      "type": "expense",
+      "category": "기타",
+      "description": "수수료",
+      "amount": 163000,
+      "date": "2025-09-03"
+    },
+    {
+      "id": 73,
+      "type": "income",
+      "category": "급여",
+      "description": "인센티브",
+      "amount": 4400000,
+      "date": "2025-09-04"
+    },
+    {
+      "id": 74,
+      "type": "expense",
+      "category": "주거",
+      "description": "전기요금",
+      "amount": 49000,
+      "date": "2025-09-05"
+    },
+    {
+      "id": 75,
+      "type": "expense",
+      "category": "주거",
+      "description": "가스요금",
+      "amount": 225000,
+      "date": "2025-09-09"
+    },
+    {
+      "id": 76,
+      "type": "expense",
+      "category": "식비",
+      "description": "김밥천국",
+      "amount": 124000,
+      "date": "2025-09-13"
+    },
+    {
+      "id": 77,
+      "type": "expense",
+      "category": "주거",
+      "description": "월세",
+      "amount": 117000,
+      "date": "2025-09-19"
+    },
+    {
+      "id": 78,
+      "type": "income",
+      "category": "급여",
+      "description": "보너스",
+      "amount": 3460000,
+      "date": "2025-09-20"
+    },
+    {
+      "id": 79,
+      "type": "expense",
+      "category": "의료",
+      "description": "건강검진",
+      "amount": 207000,
+      "date": "2025-09-26"
+    },
+    {
+      "id": 80,
+      "type": "expense",
+      "category": "교통",
+      "description": "버스 카드",
+      "amount": 3000,
+      "date": "2025-09-28"
+    },
+    {
+      "id": 81,
+      "type": "income",
+      "category": "용돈",
+      "description": "부모님 용돈",
+      "amount": 1610000,
+      "date": "2025-10-01"
+    },
+    {
+      "id": 82,
+      "type": "expense",
+      "category": "주거",
+      "description": "월세",
+      "amount": 220000,
+      "date": "2025-10-06"
+    },
+    {
+      "id": 83,
+      "type": "expense",
+      "category": "쇼핑",
+      "description": "무신사",
+      "amount": 120000,
+      "date": "2025-10-11"
+    },
+    {
+      "id": 84,
+      "type": "expense",
+      "category": "의료",
+      "description": "건강검진",
+      "amount": 276000,
+      "date": "2025-10-12"
+    },
+    {
+      "id": 85,
+      "type": "income",
+      "category": "기타",
+      "description": "선물",
+      "amount": 3360000,
+      "date": "2025-10-18"
+    },
+    {
+      "id": 86,
+      "type": "expense",
+      "category": "식비",
+      "description": "점심 도시락",
+      "amount": 263000,
+      "date": "2025-10-20"
+    },
+    {
+      "id": 87,
+      "type": "income",
+      "category": "급여",
+      "description": "월급",
+      "amount": 2220000,
+      "date": "2025-10-25"
+    },
+    {
+      "id": 88,
+      "type": "expense",
+      "category": "쇼핑",
+      "description": "쿠팡",
+      "amount": 170000,
+      "date": "2025-10-28"
+    },
+    {
+      "id": 89,
+      "type": "expense",
+      "category": "기타",
+      "description": "기부",
+      "amount": 115000,
+      "date": "2025-11-06"
+    },
+    {
+      "id": 90,
+      "type": "expense",
+      "category": "의료",
+      "description": "건강검진",
+      "amount": 207000,
+      "date": "2025-11-08"
+    },
+    {
+      "id": 91,
+      "type": "income",
+      "category": "기타",
+      "description": "기부",
+      "amount": 1520000,
+      "date": "2025-11-13"
+    },
+    {
+      "id": 92,
+      "type": "expense",
+      "category": "문화",
+      "description": "콘서트",
+      "amount": 277000,
+      "date": "2025-11-14"
+    },
+    {
+      "id": 93,
+      "type": "expense",
+      "category": "쇼핑",
+      "description": "화장품",
+      "amount": 189000,
+      "date": "2025-11-25"
+    },
+    {
+      "id": 94,
+      "type": "income",
+      "category": "용돈",
+      "description": "부모님 용돈",
+      "amount": 4980000,
+      "date": "2025-11-27"
+    },
+    {
+      "id": 95,
+      "type": "expense",
+      "category": "기타",
+      "description": "경조사비",
+      "amount": 177000,
+      "date": "2025-12-11"
+    },
+    {
+      "id": 96,
+      "type": "income",
+      "category": "급여",
+      "description": "월급",
+      "amount": 4150000,
+      "date": "2025-12-15"
+    },
+    {
+      "id": 97,
+      "type": "expense",
+      "category": "기타",
+      "description": "경조사비",
+      "amount": 122000,
+      "date": "2025-12-19"
+    },
+    {
+      "id": 98,
+      "type": "expense",
+      "category": "쇼핑",
+      "description": "신발",
+      "amount": 172000,
+      "date": "2025-12-19"
+    },
+    {
+      "id": 99,
+      "type": "income",
+      "category": "기타",
+      "description": "기부",
+      "amount": 4850000,
+      "date": "2025-12-22"
+    },
+    {
+      "id": 100,
+      "type": "expense",
+      "category": "기타",
+      "description": "경조사비",
+      "amount": 102000,
+      "date": "2025-12-28"
+    }
+  ]
+}
